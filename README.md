@@ -1,2 +1,1 @@
-# testing
-my_testing_project
+<p>My first TEST project on GITHub</p>
